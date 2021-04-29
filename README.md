@@ -23,7 +23,7 @@ User - can only view data
 ## Setup  Project
 
 Clone project by this command
-- git clone 
+- git clone (https://github.com/shubham2000-pan/project-laravel-8.git) 
 
 update composer 
 - composer update
@@ -39,6 +39,6 @@ Run project
 
 ## Developer
 - Shubham pandey
-- shubham,apn2018@gmail.com
+- shubham.apn2018@gmail.com
 
 
